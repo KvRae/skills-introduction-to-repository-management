@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @KvRae
+/src/backend/database.py      @KvRae
+/src/backend/routers/auth.py  @KvRae
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @KvRae
